@@ -1,0 +1,18 @@
+{
+  "id": "gamecraft",
+  "name": "Gamecraft",
+  "description": "Un serveur Minecraft français avec une aventure unique !",
+  "addresses": ["gamecraft.mine.fun"],
+  "primaryAddress": "gamecraft.mine.fun",
+  "minecraftVersions": ["1.21.1"],
+  "primaryMinecraftVersion": "1.21.1",
+  "primaryColor": "#00FF00",
+  "secondaryColor": "#FF0000",
+  "primaryRegion": "EU",
+  "regions": ["EU"],
+  "gameTypes": ["Survival", "Custom", "MiniGames"],
+  "crossplay": false,
+  "website": "http://gamecraft.free.nf/?i=1",
+  "discord": "https://discord.gg/AGrzVXVQhT",
+  "logo": "logo.png"
+}
